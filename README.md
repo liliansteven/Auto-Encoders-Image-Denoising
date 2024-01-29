@@ -28,7 +28,7 @@ This repository is dedicated to the task of reducing noise in images using an au
 - Results include both subjective and objective evaluations for Scenario 2.1 and Scenario 2.2, along with the bonus features.
 - This structure allows for a detailed understanding of the image denoising process using autoencoders, PCA, and NN under various noise addition scenarios.
 
-## Visual comparisons of autoencoders, PCA, and NN under the two scenarios:
+## Visual comparisons of autoencoders, PCA, and AutoEncoder Model using CNN under the two scenarios:
 ## AutoEncoder Model results under scenarios 1:
 ![alt text](images/image1.png)
 
